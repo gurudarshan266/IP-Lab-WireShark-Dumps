@@ -1,0 +1,946 @@
+      1 0.000000000    192.1.1.1             198.97.190.53         DNS      87     Standard query 0xf655 A daisy.ubuntu.com OPT
+
+Frame 1: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 56136 (56136), Dst Port: 53 (53)
+Domain Name System (query)
+
+      2 0.000099707    192.1.1.1             198.97.190.53         DNS      87     Standard query 0x1b4f AAAA daisy.ubuntu.com OPT
+
+Frame 2: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 49308 (49308), Dst Port: 53 (53)
+Domain Name System (query)
+
+      3 0.000240571    192.1.1.2             192.1.1.1             ICMP     115    Destination unreachable (Network unreachable)
+
+Frame 3: 115 bytes on wire (920 bits), 115 bytes captured (920 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+      4 0.000249308    192.1.1.2             192.1.1.1             ICMP     115    Destination unreachable (Network unreachable)
+
+Frame 4: 115 bytes on wire (920 bits), 115 bytes captured (920 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+      5 0.000353556    192.1.1.1             198.97.190.53         DNS      70     Standard query 0x26cd NS <Root> OPT
+
+Frame 5: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 42215 (42215), Dst Port: 53 (53)
+Domain Name System (query)
+
+      6 0.000442308    192.1.1.1             198.97.190.53         DNS      89     Standard query 0x63ec AAAA E.ROOT-SERVERS.NET OPT
+
+Frame 6: 89 bytes on wire (712 bits), 89 bytes captured (712 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 59964 (59964), Dst Port: 53 (53)
+Domain Name System (query)
+
+      7 0.000611590    192.1.1.1             198.97.190.53         DNS      89     Standard query 0x79ed AAAA G.ROOT-SERVERS.NET OPT
+
+Frame 7: 89 bytes on wire (712 bits), 89 bytes captured (712 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 35424 (35424), Dst Port: 53 (53)
+Domain Name System (query)
+
+      8 4.143905100    192.1.1.1             198.97.190.53         DNS      87     Standard query 0x1fff A daisy.ubuntu.com OPT
+
+Frame 8: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 35119 (35119), Dst Port: 53 (53)
+Domain Name System (query)
+
+      9 4.144021849    192.1.1.1             198.97.190.53         DNS      87     Standard query 0x1ec0 AAAA daisy.ubuntu.com OPT
+
+Frame 9: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 50264 (50264), Dst Port: 53 (53)
+Domain Name System (query)
+
+     10 4.144027243    192.1.1.1             198.97.190.53         DNS      70     Standard query 0xeffa NS <Root> OPT
+
+Frame 10: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 51806 (51806), Dst Port: 53 (53)
+Domain Name System (query)
+
+     11 4.144104694    192.1.1.1             198.97.190.53         DNS      78     Standard query 0x272b AAAA E.ROOT-SERVERS.NET
+
+Frame 11: 78 bytes on wire (624 bits), 78 bytes captured (624 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 42459 (42459), Dst Port: 53 (53)
+Domain Name System (query)
+
+     12 4.144168296    192.1.1.2             192.1.1.1             ICMP     115    Destination unreachable (Network unreachable)
+
+Frame 12: 115 bytes on wire (920 bits), 115 bytes captured (920 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+     13 4.144178946    192.1.1.2             192.1.1.1             ICMP     115    Destination unreachable (Network unreachable)
+
+Frame 13: 115 bytes on wire (920 bits), 115 bytes captured (920 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+     14 4.144304683    192.1.1.1             198.97.190.53         DNS      78     Standard query 0x1e4c AAAA G.ROOT-SERVERS.NET
+
+Frame 14: 78 bytes on wire (624 bits), 78 bytes captured (624 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 38390 (38390), Dst Port: 53 (53)
+Domain Name System (query)
+
+     15 5.011981302    IntelCor_23:35:26     IntelCor_76:32:d4     ARP      42     Who has 192.1.1.2? Tell 192.1.1.1
+
+Frame 15: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Address Resolution Protocol (request)
+
+     16 5.012171780    IntelCor_76:32:d4     IntelCor_23:35:26     ARP      60     192.1.1.2 is at 00:1b:21:76:32:d4
+
+Frame 16: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Address Resolution Protocol (reply)
+
+     17 8.289429115    192.1.1.1             198.97.190.53         DNS      89     Standard query 0x5d86 AAAA E.ROOT-SERVERS.NET OPT
+
+Frame 17: 89 bytes on wire (712 bits), 89 bytes captured (712 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 53153 (53153), Dst Port: 53 (53)
+Domain Name System (query)
+
+     18 8.289827014    192.1.1.2             192.1.1.1             ICMP     117    Destination unreachable (Network unreachable)
+
+Frame 18: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+     19 8.289917871    192.1.1.1             198.97.190.53         DNS      76     Standard query 0x26e2 A daisy.ubuntu.com
+
+Frame 19: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 48396 (48396), Dst Port: 53 (53)
+Domain Name System (query)
+
+     20 8.290076616    192.1.1.2             192.1.1.1             ICMP     104    Destination unreachable (Network unreachable)
+
+Frame 20: 104 bytes on wire (832 bits), 104 bytes captured (832 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+     21 8.291247409    192.1.1.1             198.97.190.53         DNS      59     Standard query 0xbc6f NS <Root>
+
+Frame 21: 59 bytes on wire (472 bits), 59 bytes captured (472 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 51356 (51356), Dst Port: 53 (53)
+Domain Name System (query)
+
+     22 8.291353402    192.1.1.1             198.97.190.53         DNS      76     Standard query 0x3483 AAAA daisy.ubuntu.com
+
+Frame 22: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 36414 (36414), Dst Port: 53 (53)
+Domain Name System (query)
+
+     23 8.291620519    192.1.1.1             198.97.190.53         DNS      89     Standard query 0x5f2e AAAA G.ROOT-SERVERS.NET OPT
+
+Frame 23: 89 bytes on wire (712 bits), 89 bytes captured (712 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 35963 (35963), Dst Port: 53 (53)
+Domain Name System (query)
+
+     24 10.000484575   192.1.1.1             198.97.190.53         DNS      87     Standard query 0x30fe A daisy.ubuntu.com OPT
+
+Frame 24: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 43059 (43059), Dst Port: 53 (53)
+Domain Name System (query)
+
+     25 10.000575067   192.1.1.1             198.97.190.53         DNS      87     Standard query 0xb0d6 AAAA daisy.ubuntu.com OPT
+
+Frame 25: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 38360 (38360), Dst Port: 53 (53)
+Domain Name System (query)
+
+     26 10.000743729   192.1.1.1             198.97.190.53         DNS      70     Standard query 0xfad7 NS <Root> OPT
+
+Frame 26: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 38067 (38067), Dst Port: 53 (53)
+Domain Name System (query)
+
+     27 10.000865225   192.1.1.2             192.1.1.1             ICMP     115    Destination unreachable (Network unreachable)
+
+Frame 27: 115 bytes on wire (920 bits), 115 bytes captured (920 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+     28 13.302509550   IntelCor_76:32:d4     IntelCor_23:35:26     ARP      60     Who has 192.1.1.1? Tell 192.1.1.2
+
+Frame 28: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Address Resolution Protocol (request)
+
+     29 13.302525651   IntelCor_23:35:26     IntelCor_76:32:d4     ARP      42     192.1.1.1 is at 00:1b:21:23:35:26
+
+Frame 29: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Address Resolution Protocol (reply)
+
+     30 14.149628678   192.1.1.1             198.97.190.53         DNS      87     Standard query 0xd560 A daisy.ubuntu.com OPT
+
+Frame 30: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 41608 (41608), Dst Port: 53 (53)
+Domain Name System (query)
+
+     31 14.149643903   192.1.1.1             198.97.190.53         DNS      70     Standard query 0xa8e6 NS <Root> OPT
+
+Frame 31: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 48434 (48434), Dst Port: 53 (53)
+Domain Name System (query)
+
+     32 14.149709997   192.1.1.1             198.97.190.53         DNS      87     Standard query 0xd08b AAAA daisy.ubuntu.com OPT
+
+Frame 32: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 33282 (33282), Dst Port: 53 (53)
+Domain Name System (query)
+
+     33 14.150031971   192.1.1.2             192.1.1.1             ICMP     115    Destination unreachable (Network unreachable)
+
+Frame 33: 115 bytes on wire (920 bits), 115 bytes captured (920 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+     34 14.150043903   192.1.1.2             192.1.1.1             ICMP     98     Destination unreachable (Network unreachable)
+
+Frame 34: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+     35 16.310514670   192.1.1.1             199.7.83.42           DNS      83     Standard query 0x6411 AAAA www.ncsu.edu OPT
+
+Frame 35: 83 bytes on wire (664 bits), 83 bytes captured (664 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 41406 (41406), Dst Port: 53 (53)
+Domain Name System (query)
+
+     36 16.310607741   192.1.1.1             198.97.190.53         DNS      83     Standard query 0xdbbb A www.ncsu.edu OPT
+
+Frame 36: 83 bytes on wire (664 bits), 83 bytes captured (664 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 55584 (55584), Dst Port: 53 (53)
+Domain Name System (query)
+
+     37 16.310820302   192.1.1.2             192.1.1.1             ICMP     111    Destination unreachable (Network unreachable)
+
+Frame 37: 111 bytes on wire (888 bits), 111 bytes captured (888 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+     38 18.299301571   192.1.1.1             198.97.190.53         DNS      59     Standard query 0xbd04 NS <Root>
+
+Frame 38: 59 bytes on wire (472 bits), 59 bytes captured (472 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 45589 (45589), Dst Port: 53 (53)
+Domain Name System (query)
+
+     39 18.299699526   192.1.1.2             192.1.1.1             ICMP     87     Destination unreachable (Network unreachable)
+
+Frame 39: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+     40 18.301137880   192.1.1.1             198.97.190.53         DNS      76     Standard query 0xa452 A daisy.ubuntu.com
+
+Frame 40: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 59628 (59628), Dst Port: 53 (53)
+Domain Name System (query)
+
+     41 18.301830512   192.1.1.1             198.97.190.53         DNS      76     Standard query 0xb44b AAAA daisy.ubuntu.com
+
+Frame 41: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 46937 (46937), Dst Port: 53 (53)
+Domain Name System (query)
+
+     42 19.889470688   192.1.1.1             199.7.83.42           DNS      85     Standard query 0x5eee A ntp.ubuntu.com OPT
+
+Frame 42: 85 bytes on wire (680 bits), 85 bytes captured (680 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 51445 (51445), Dst Port: 53 (53)
+Domain Name System (query)
+
+     43 19.889557842   192.1.1.1             199.7.83.42           DNS      85     Standard query 0xf3a8 AAAA ntp.ubuntu.com OPT
+
+Frame 43: 85 bytes on wire (680 bits), 85 bytes captured (680 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 52601 (52601), Dst Port: 53 (53)
+Domain Name System (query)
+
+     44 20.003670286   192.1.1.1             199.7.83.42           DNS      87     Standard query 0x2c81 A daisy.ubuntu.com OPT
+
+Frame 44: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 34662 (34662), Dst Port: 53 (53)
+Domain Name System (query)
+
+     45 20.003728643   192.1.1.1             199.7.83.42           DNS      87     Standard query 0x5170 AAAA daisy.ubuntu.com OPT
+
+Frame 45: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 43735 (43735), Dst Port: 53 (53)
+Domain Name System (query)
+
+     46 20.204591605   192.1.1.1             199.7.83.42           DNS      83     Standard query 0x4655 AAAA www.ncsu.edu OPT
+
+Frame 46: 83 bytes on wire (664 bits), 83 bytes captured (664 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 60186 (60186), Dst Port: 53 (53)
+Domain Name System (query)
+
+     47 20.462853936   192.1.1.1             199.7.83.42           DNS      83     Standard query 0x1e79 A www.ncsu.edu OPT
+
+Frame 47: 83 bytes on wire (664 bits), 83 bytes captured (664 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 47877 (47877), Dst Port: 53 (53)
+Domain Name System (query)
+
+     48 23.783965608   192.1.1.1             199.7.83.42           DNS      74     Standard query 0x6bbe A ntp.ubuntu.com
+
+Frame 48: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 42684 (42684), Dst Port: 53 (53)
+Domain Name System (query)
+
+     49 23.783972281   192.1.1.1             199.7.83.42           DNS      59     Standard query 0x4917 NS <Root>
+
+Frame 49: 59 bytes on wire (472 bits), 59 bytes captured (472 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 56092 (56092), Dst Port: 53 (53)
+Domain Name System (query)
+
+     50 23.784037307   192.1.1.1             199.7.83.42           DNS      78     Standard query 0x6291 AAAA E.ROOT-SERVERS.NET
+
+Frame 50: 78 bytes on wire (624 bits), 78 bytes captured (624 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 52825 (52825), Dst Port: 53 (53)
+Domain Name System (query)
+
+     51 23.784061638   192.1.1.1             199.7.83.42           DNS      74     Standard query 0x52c5 AAAA ntp.ubuntu.com
+
+Frame 51: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 54440 (54440), Dst Port: 53 (53)
+Domain Name System (query)
+
+     52 23.784099766   192.1.1.1             199.7.83.42           DNS      78     Standard query 0x2c8a AAAA G.ROOT-SERVERS.NET
+
+Frame 52: 78 bytes on wire (624 bits), 78 bytes captured (624 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 33326 (33326), Dst Port: 53 (53)
+Domain Name System (query)
+
+     53 23.784368041   192.1.1.2             192.1.1.1             ICMP     102    Destination unreachable (Network unreachable)
+
+Frame 53: 102 bytes on wire (816 bits), 102 bytes captured (816 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+     54 23.897732620   192.1.1.1             199.7.83.42           DNS      76     Standard query 0x1433 A daisy.ubuntu.com
+
+Frame 54: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 52463 (52463), Dst Port: 53 (53)
+Domain Name System (query)
+
+     55 23.897851101   192.1.1.1             199.7.83.42           DNS      76     Standard query 0x48b8 AAAA daisy.ubuntu.com
+
+Frame 55: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 42875 (42875), Dst Port: 53 (53)
+Domain Name System (query)
+
+     56 24.100844199   192.1.1.1             199.7.83.42           DNS      72     Standard query 0x6678 AAAA www.ncsu.edu
+
+Frame 56: 72 bytes on wire (576 bits), 72 bytes captured (576 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 44394 (44394), Dst Port: 53 (53)
+Domain Name System (query)
+
+     57 24.359158737   192.1.1.1             199.7.83.42           DNS      72     Standard query 0x948e A www.ncsu.edu
+
+Frame 57: 72 bytes on wire (576 bits), 72 bytes captured (576 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 46190 (46190), Dst Port: 53 (53)
+Domain Name System (query)
+
+     58 26.310738015   192.1.1.1             199.7.83.42           DNS      72     Standard query 0x00b9 AAAA www.ncsu.edu
+
+Frame 58: 72 bytes on wire (576 bits), 72 bytes captured (576 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 34072 (34072), Dst Port: 53 (53)
+Domain Name System (query)
+
+     59 26.310800297   192.1.1.1             199.7.83.42           DNS      72     Standard query 0x1f38 A www.ncsu.edu
+
+Frame 59: 72 bytes on wire (576 bits), 72 bytes captured (576 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 47423 (47423), Dst Port: 53 (53)
+Domain Name System (query)
+
+     60 26.310953158   192.1.1.2             192.1.1.1             ICMP     100    Destination unreachable (Network unreachable)
+
+Frame 60: 100 bytes on wire (800 bits), 100 bytes captured (800 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+     61 27.680079905   192.1.1.1             199.7.83.42           DNS      89     Standard query 0x3437 AAAA E.ROOT-SERVERS.NET OPT
+
+Frame 61: 89 bytes on wire (712 bits), 89 bytes captured (712 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 50961 (50961), Dst Port: 53 (53)
+Domain Name System (query)
+
+     62 27.680086853   192.1.1.1             199.7.83.42           DNS      85     Standard query 0x73f7 AAAA ntp.ubuntu.com OPT
+
+Frame 62: 85 bytes on wire (680 bits), 85 bytes captured (680 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 59086 (59086), Dst Port: 53 (53)
+Domain Name System (query)
+
+     63 27.680159180   192.1.1.1             199.7.83.42           DNS      89     Standard query 0xea19 AAAA G.ROOT-SERVERS.NET OPT
+
+Frame 63: 89 bytes on wire (712 bits), 89 bytes captured (712 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 49152 (49152), Dst Port: 53 (53)
+Domain Name System (query)
+
+     64 27.680735124   192.1.1.1             199.7.83.42           DNS      85     Standard query 0x747e A ntp.ubuntu.com OPT
+
+Frame 64: 85 bytes on wire (680 bits), 85 bytes captured (680 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 50249 (50249), Dst Port: 53 (53)
+Domain Name System (query)
+
+     65 27.680746214   192.1.1.1             199.7.83.42           DNS      70     Standard query 0x7822 NS <Root> OPT
+
+Frame 65: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 32961 (32961), Dst Port: 53 (53)
+Domain Name System (query)
+
+     66 27.792494101   192.1.1.1             199.7.83.42           DNS      87     Standard query 0x840b A daisy.ubuntu.com OPT
+
+Frame 66: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 46656 (46656), Dst Port: 53 (53)
+Domain Name System (query)
+
+     67 27.793569924   192.1.1.1             199.7.83.42           DNS      87     Standard query 0x1886 AAAA daisy.ubuntu.com OPT
+
+Frame 67: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 46590 (46590), Dst Port: 53 (53)
+Domain Name System (query)
+
+     68 29.889556281   192.1.1.1             199.7.83.42           DNS      85     Standard query 0xf7f4 A ntp.ubuntu.com OPT
+
+Frame 68: 85 bytes on wire (680 bits), 85 bytes captured (680 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 54639 (54639), Dst Port: 53 (53)
+Domain Name System (query)
+
+     69 29.889619044   192.1.1.1             199.7.83.42           DNS      85     Standard query 0xd944 AAAA ntp.ubuntu.com OPT
+
+Frame 69: 85 bytes on wire (680 bits), 85 bytes captured (680 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 47658 (47658), Dst Port: 53 (53)
+Domain Name System (query)
+
+     70 29.889935507   192.1.1.2             192.1.1.1             ICMP     113    Destination unreachable (Network unreachable)
+
+Frame 70: 113 bytes on wire (904 bits), 113 bytes captured (904 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+     71 30.004166729   192.1.1.1             199.7.83.42           DNS      87     Standard query 0x807a AAAA daisy.ubuntu.com OPT
+
+Frame 71: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 49216 (49216), Dst Port: 53 (53)
+Domain Name System (query)
+
+     72 30.004232244   192.1.1.1             199.7.83.42           DNS      87     Standard query 0x210d A daisy.ubuntu.com OPT
+
+Frame 72: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 39511 (39511), Dst Port: 53 (53)
+Domain Name System (query)
+
+     73 30.208187749   192.1.1.1             199.7.83.42           DNS      83     Standard query 0x621b AAAA www.ncsu.edu OPT
+
+Frame 73: 83 bytes on wire (664 bits), 83 bytes captured (664 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 35932 (35932), Dst Port: 53 (53)
+Domain Name System (query)
+
+     74 30.208280249   192.1.1.1             198.97.190.53         DNS      72     Standard query 0x7511 A www.ncsu.edu
+
+Frame 74: 72 bytes on wire (576 bits), 72 bytes captured (576 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 45199 (45199), Dst Port: 53 (53)
+Domain Name System (query)
+
+     75 31.315935848   IntelCor_23:35:26     IntelCor_76:32:d4     ARP      42     Who has 192.1.1.2? Tell 192.1.1.1
+
+Frame 75: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Address Resolution Protocol (request)
+
+     76 31.316136378   IntelCor_76:32:d4     IntelCor_23:35:26     ARP      60     192.1.1.2 is at 00:1b:21:76:32:d4
+
+Frame 76: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Address Resolution Protocol (reply)
+
+     77 31.578397523   192.1.1.1             199.7.83.42           DNS      70     Standard query 0x3da6 NS <Root> OPT
+
+Frame 77: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 57654 (57654), Dst Port: 53 (53)
+Domain Name System (query)
+
+     78 31.579466118   192.1.1.1             199.7.83.42           DNS      89     Standard query 0x6c0e AAAA G.ROOT-SERVERS.NET OPT
+
+Frame 78: 89 bytes on wire (712 bits), 89 bytes captured (712 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 52393 (52393), Dst Port: 53 (53)
+Domain Name System (query)
+
+     79 31.586575407   192.1.1.1             199.7.83.42           DNS      89     Standard query 0x60c0 AAAA E.ROOT-SERVERS.NET OPT
+
+Frame 79: 89 bytes on wire (712 bits), 89 bytes captured (712 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 59073 (59073), Dst Port: 53 (53)
+Domain Name System (query)
+
+     80 33.785656691   192.1.1.1             199.7.83.42           DNS      74     Standard query 0x430c A ntp.ubuntu.com
+
+Frame 80: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 45967 (45967), Dst Port: 53 (53)
+Domain Name System (query)
+
+     81 33.785664691   192.1.1.1             199.7.83.42           DNS      59     Standard query 0x72e5 NS <Root>
+
+Frame 81: 59 bytes on wire (472 bits), 59 bytes captured (472 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 33489 (33489), Dst Port: 53 (53)
+Domain Name System (query)
+
+     82 33.785739150   192.1.1.1             199.7.83.42           DNS      74     Standard query 0x9725 AAAA ntp.ubuntu.com
+
+Frame 82: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 41539 (41539), Dst Port: 53 (53)
+Domain Name System (query)
+
+     83 33.785995898   192.1.1.2             192.1.1.1             ICMP     102    Destination unreachable (Network unreachable)
+
+Frame 83: 102 bytes on wire (816 bits), 102 bytes captured (816 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+     84 33.900089414   192.1.1.1             199.7.83.42           DNS      76     Standard query 0x8640 AAAA daisy.ubuntu.com
+
+Frame 84: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 33350 (33350), Dst Port: 53 (53)
+Domain Name System (query)
+
+     85 33.900168857   192.1.1.1             199.7.83.42           DNS      76     Standard query 0x4a73 A daisy.ubuntu.com
+
+Frame 85: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 44307 (44307), Dst Port: 53 (53)
+Domain Name System (query)
+
+     86 34.118231203   192.1.1.1             198.97.190.53         DNS      72     Standard query 0x7a03 AAAA www.ncsu.edu
+
+Frame 86: 72 bytes on wire (576 bits), 72 bytes captured (576 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 58177 (58177), Dst Port: 53 (53)
+Domain Name System (query)
+
+     87 34.361634640   192.1.1.1             198.97.190.53         DNS      83     Standard query 0xd1db A www.ncsu.edu OPT
+
+Frame 87: 83 bytes on wire (664 bits), 83 bytes captured (664 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 57071 (57071), Dst Port: 53 (53)
+Domain Name System (query)
+
+     88 37.681865861   192.1.1.1             199.7.83.42           DNS      85     Standard query 0x4cae AAAA ntp.ubuntu.com OPT
+
+Frame 88: 85 bytes on wire (680 bits), 85 bytes captured (680 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 36245 (36245), Dst Port: 53 (53)
+Domain Name System (query)
+
+     89 37.682061620   192.1.1.2             192.1.1.1             ICMP     113    Destination unreachable (Network unreachable)
+
+Frame 89: 113 bytes on wire (904 bits), 113 bytes captured (904 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+     90 37.683996884   192.1.1.1             199.7.83.42           DNS      85     Standard query 0x83a7 A ntp.ubuntu.com OPT
+
+Frame 90: 85 bytes on wire (680 bits), 85 bytes captured (680 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 39662 (39662), Dst Port: 53 (53)
+Domain Name System (query)
+
+     91 37.684001824   192.1.1.1             199.7.83.42           DNS      70     Standard query 0x0bb0 NS <Root> OPT
+
+Frame 91: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 34241 (34241), Dst Port: 53 (53)
+Domain Name System (query)
+
+     92 37.797278339   192.1.1.1             199.7.83.42           DNS      87     Standard query 0x1e17 A daisy.ubuntu.com OPT
+
+Frame 92: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 35398 (35398), Dst Port: 53 (53)
+Domain Name System (query)
+
+     93 37.797500332   192.1.1.1             199.7.83.42           DNS      87     Standard query 0xee66 AAAA daisy.ubuntu.com OPT
+
+Frame 93: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 56337 (56337), Dst Port: 53 (53)
+Domain Name System (query)
+
+     94 39.890182973   192.1.1.1             199.7.83.42           DNS      85     Standard query 0x1c0a A ntp.ubuntu.com OPT
+
+Frame 94: 85 bytes on wire (680 bits), 85 bytes captured (680 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 33712 (33712), Dst Port: 53 (53)
+Domain Name System (query)
+
+     95 39.890238578   192.1.1.1             199.7.83.42           DNS      85     Standard query 0x55ce AAAA ntp.ubuntu.com OPT
+
+Frame 95: 85 bytes on wire (680 bits), 85 bytes captured (680 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 39293 (39293), Dst Port: 53 (53)
+Domain Name System (query)
+
+     96 39.890564495   192.1.1.2             192.1.1.1             ICMP     113    Destination unreachable (Network unreachable)
+
+Frame 96: 113 bytes on wire (904 bits), 113 bytes captured (904 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+     97 41.585096003   192.1.1.1             199.7.83.42           DNS      70     Standard query 0x4c15 NS <Root> OPT
+
+Frame 97: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 59771 (59771), Dst Port: 53 (53)
+Domain Name System (query)
+
+     98 41.585368285   192.1.1.2             192.1.1.1             ICMP     98     Destination unreachable (Network unreachable)
+
+Frame 98: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+     99 43.791734434   192.1.1.1             199.7.83.42           DNS      85     Standard query 0xeb70 A ntp.ubuntu.com OPT
+
+Frame 99: 85 bytes on wire (680 bits), 85 bytes captured (680 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 55523 (55523), Dst Port: 53 (53)
+Domain Name System (query)
+
+    100 43.791741569   192.1.1.1             199.7.83.42           DNS      70     Standard query 0x782b NS <Root> OPT
+
+Frame 100: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 48211 (48211), Dst Port: 53 (53)
+Domain Name System (query)
+
+    101 43.791820250   192.1.1.1             199.7.83.42           DNS      85     Standard query 0x7042 AAAA ntp.ubuntu.com OPT
+
+Frame 101: 85 bytes on wire (680 bits), 85 bytes captured (680 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 34006 (34006), Dst Port: 53 (53)
+Domain Name System (query)
+
+    102 43.792123216   192.1.1.2             192.1.1.1             ICMP     113    Destination unreachable (Network unreachable)
+
+Frame 102: 113 bytes on wire (904 bits), 113 bytes captured (904 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+    103 47.694670813   192.1.1.1             199.7.83.42           DNS      74     Standard query 0x68ce AAAA ntp.ubuntu.com
+
+Frame 103: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 33550 (33550), Dst Port: 53 (53)
+Domain Name System (query)
+
+    104 47.694677223   192.1.1.1             199.7.83.42           DNS      78     Standard query 0x963f AAAA E.ROOT-SERVERS.NET
+
+Frame 104: 78 bytes on wire (624 bits), 78 bytes captured (624 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 42464 (42464), Dst Port: 53 (53)
+Domain Name System (query)
+
+    105 47.694729648   192.1.1.1             199.7.83.42           DNS      78     Standard query 0x950a AAAA G.ROOT-SERVERS.NET
+
+Frame 105: 78 bytes on wire (624 bits), 78 bytes captured (624 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 57495 (57495), Dst Port: 53 (53)
+Domain Name System (query)
+
+    106 47.694935483   192.1.1.2             192.1.1.1             ICMP     102    Destination unreachable (Network unreachable)
+
+Frame 106: 102 bytes on wire (816 bits), 102 bytes captured (816 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+    107 47.694946471   192.1.1.2             192.1.1.1             ICMP     106    Destination unreachable (Network unreachable)
+
+Frame 107: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+    108 47.695325588   192.1.1.1             199.7.83.42           DNS      59     Standard query 0x07bf NS <Root>
+
+Frame 108: 59 bytes on wire (472 bits), 59 bytes captured (472 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 48172 (48172), Dst Port: 53 (53)
+Domain Name System (query)
+
+    109 47.695332133   192.1.1.1             199.7.83.42           DNS      74     Standard query 0x48aa A ntp.ubuntu.com
+
+Frame 109: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 51946 (51946), Dst Port: 53 (53)
+Domain Name System (query)
+
+    110 49.890659562   192.1.1.1             199.7.83.42           DNS      74     Standard query 0xf04a A ntp.ubuntu.com
+
+Frame 110: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 38752 (38752), Dst Port: 53 (53)
+Domain Name System (query)
+
+    111 49.890730615   192.1.1.1             199.7.83.42           DNS      74     Standard query 0xe09a AAAA ntp.ubuntu.com
+
+Frame 111: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 53398 (53398), Dst Port: 53 (53)
+Domain Name System (query)
+
+    112 49.890946905   192.1.1.2             192.1.1.1             ICMP     102    Destination unreachable (Network unreachable)
+
+Frame 112: 102 bytes on wire (816 bits), 102 bytes captured (816 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+    113 51.598671411   192.1.1.1             199.7.83.42           DNS      89     Standard query 0xe654 AAAA E.ROOT-SERVERS.NET OPT
+
+Frame 113: 89 bytes on wire (712 bits), 89 bytes captured (712 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 60374 (60374), Dst Port: 53 (53)
+Domain Name System (query)
+
+    114 51.598954622   192.1.1.1             199.7.83.42           DNS      89     Standard query 0xdd69 AAAA G.ROOT-SERVERS.NET OPT
+
+Frame 114: 89 bytes on wire (712 bits), 89 bytes captured (712 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 33467 (33467), Dst Port: 53 (53)
+Domain Name System (query)
+
+    115 51.598986784   192.1.1.2             192.1.1.1             ICMP     117    Destination unreachable (Network unreachable)
+
+Frame 115: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+    116 51.601851574   192.1.1.1             198.97.190.53         DNS      70     Standard query 0x113e NS <Root> OPT
+
+Frame 116: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 198.97.190.53
+User Datagram Protocol, Src Port: 33216 (33216), Dst Port: 53 (53)
+Domain Name System (query)
+
+    117 53.797292338   192.1.1.1             199.7.83.42           DNS      70     Standard query 0x7085 NS <Root> OPT
+
+Frame 117: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 45525 (45525), Dst Port: 53 (53)
+Domain Name System (query)
+
+    118 53.797299684   192.1.1.1             199.7.83.42           DNS      85     Standard query 0x7afc A ntp.ubuntu.com OPT
+
+Frame 118: 85 bytes on wire (680 bits), 85 bytes captured (680 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 35104 (35104), Dst Port: 53 (53)
+Domain Name System (query)
+
+    119 53.797505771   192.1.1.2             192.1.1.1             ICMP     98     Destination unreachable (Network unreachable)
+
+Frame 119: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+    120 53.797541211   192.1.1.1             199.7.83.42           DNS      85     Standard query 0x0a3c AAAA ntp.ubuntu.com OPT
+
+Frame 120: 85 bytes on wire (680 bits), 85 bytes captured (680 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 37631 (37631), Dst Port: 53 (53)
+Domain Name System (query)
+
+    121 55.505266638   192.1.1.1             199.7.83.42           DNS      89     Standard query 0x7a8a AAAA E.ROOT-SERVERS.NET OPT
+
+Frame 121: 89 bytes on wire (712 bits), 89 bytes captured (712 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 45494 (45494), Dst Port: 53 (53)
+Domain Name System (query)
+
+    122 55.505542973   192.1.1.2             192.1.1.1             ICMP     117    Destination unreachable (Network unreachable)
+
+Frame 122: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+    123 55.508781598   192.1.1.1             199.7.83.42           DNS      89     Standard query 0x115e AAAA G.ROOT-SERVERS.NET OPT
+
+Frame 123: 89 bytes on wire (712 bits), 89 bytes captured (712 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 199.7.83.42
+User Datagram Protocol, Src Port: 38468 (38468), Dst Port: 53 (53)
+Domain Name System (query)

@@ -1,0 +1,65 @@
+      1 0.000000000    IntelCor_23:35:26     Broadcast             ARP      60     Who has 192.1.1.2? Tell 192.1.1.1
+
+Frame 1: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+      2 0.000023556    IntelCor_76:32:d4     IntelCor_23:35:26     ARP      42     192.1.1.2 is at 00:1b:21:76:32:d4
+
+Frame 2: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Address Resolution Protocol (reply)
+
+      3 0.000173758    192.1.1.1             192.1.1.2             ICMP     98     Echo (ping) request  id=0x162d, seq=1/256, ttl=64 (reply in 4)
+
+Frame 3: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 192.1.1.2
+Internet Control Message Protocol
+
+      4 0.000200649    192.1.1.2             192.1.1.1             ICMP     98     Echo (ping) reply    id=0x162d, seq=1/256, ttl=64 (request in 3)
+
+Frame 4: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+      5 0.998989323    192.1.1.1             192.1.1.2             ICMP     98     Echo (ping) request  id=0x162d, seq=2/512, ttl=64 (reply in 6)
+
+Frame 5: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 192.1.1.2
+Internet Control Message Protocol
+
+      6 0.999021534    192.1.1.2             192.1.1.1             ICMP     98     Echo (ping) reply    id=0x162d, seq=2/512, ttl=64 (request in 5)
+
+Frame 6: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+      7 1.997926089    192.1.1.1             192.1.1.2             ICMP     98     Echo (ping) request  id=0x162d, seq=3/768, ttl=64 (reply in 8)
+
+Frame 7: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 192.1.1.2
+Internet Control Message Protocol
+
+      8 1.997957621    192.1.1.2             192.1.1.1             ICMP     98     Echo (ping) reply    id=0x162d, seq=3/768, ttl=64 (request in 7)
+
+Frame 8: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Internet Protocol Version 4, Src: 192.1.1.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+      9 5.016085533    IntelCor_76:32:d4     IntelCor_23:35:26     ARP      42     Who has 192.1.1.1? Tell 192.1.1.2
+
+Frame 9: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: IntelCor_76:32:d4 (00:1b:21:76:32:d4), Dst: IntelCor_23:35:26 (00:1b:21:23:35:26)
+Address Resolution Protocol (request)
+
+     10 5.016321459    IntelCor_23:35:26     IntelCor_76:32:d4     ARP      60     192.1.1.1 is at 00:1b:21:23:35:26
+
+Frame 10: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+Ethernet II, Src: IntelCor_23:35:26 (00:1b:21:23:35:26), Dst: IntelCor_76:32:d4 (00:1b:21:76:32:d4)
+Address Resolution Protocol (reply)

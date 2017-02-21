@@ -1,0 +1,79 @@
+      1 0.000000000    Dell_56:ec:1b         Broadcast             ARP      60     Who has 192.1.2.2? Tell 192.1.2.1
+
+Frame 1: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+Ethernet II, Src: Dell_56:ec:1b (84:2b:2b:56:ec:1b), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Address Resolution Protocol (request)
+
+      2 0.000026242    Dell_69:cb:b2         Dell_56:ec:1b         ARP      42     192.1.2.2 is at 84:2b:2b:69:cb:b2
+
+Frame 2: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: Dell_69:cb:b2 (84:2b:2b:69:cb:b2), Dst: Dell_56:ec:1b (84:2b:2b:56:ec:1b)
+Address Resolution Protocol (reply)
+
+      3 0.000181559    192.1.1.1             192.1.2.2             ICMP     98     Echo (ping) request  id=0x1639, seq=1/256, ttl=63 (reply in 4)
+
+Frame 3: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: Dell_56:ec:1b (84:2b:2b:56:ec:1b), Dst: Dell_69:cb:b2 (84:2b:2b:69:cb:b2)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 192.1.2.2
+Internet Control Message Protocol
+
+      4 0.000209626    192.1.2.2             192.1.1.1             ICMP     98     Echo (ping) reply    id=0x1639, seq=1/256, ttl=64 (request in 3)
+
+Frame 4: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: Dell_69:cb:b2 (84:2b:2b:69:cb:b2), Dst: Dell_56:ec:1b (84:2b:2b:56:ec:1b)
+Internet Protocol Version 4, Src: 192.1.2.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+      5 1.000477496    192.1.1.1             192.1.2.2             ICMP     98     Echo (ping) request  id=0x1639, seq=2/512, ttl=63 (reply in 6)
+
+Frame 5: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: Dell_56:ec:1b (84:2b:2b:56:ec:1b), Dst: Dell_69:cb:b2 (84:2b:2b:69:cb:b2)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 192.1.2.2
+Internet Control Message Protocol
+
+      6 1.000511648    192.1.2.2             192.1.1.1             ICMP     98     Echo (ping) reply    id=0x1639, seq=2/512, ttl=64 (request in 5)
+
+Frame 6: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: Dell_69:cb:b2 (84:2b:2b:69:cb:b2), Dst: Dell_56:ec:1b (84:2b:2b:56:ec:1b)
+Internet Protocol Version 4, Src: 192.1.2.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+      7 2.000724396    192.1.1.1             192.1.2.2             ICMP     98     Echo (ping) request  id=0x1639, seq=3/768, ttl=63 (reply in 8)
+
+Frame 7: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: Dell_56:ec:1b (84:2b:2b:56:ec:1b), Dst: Dell_69:cb:b2 (84:2b:2b:69:cb:b2)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 192.1.2.2
+Internet Control Message Protocol
+
+      8 2.000758712    192.1.2.2             192.1.1.1             ICMP     98     Echo (ping) reply    id=0x1639, seq=3/768, ttl=64 (request in 7)
+
+Frame 8: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: Dell_69:cb:b2 (84:2b:2b:69:cb:b2), Dst: Dell_56:ec:1b (84:2b:2b:56:ec:1b)
+Internet Protocol Version 4, Src: 192.1.2.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+      9 3.000392338    192.1.1.1             192.1.2.2             ICMP     98     Echo (ping) request  id=0x1639, seq=4/1024, ttl=63 (reply in 10)
+
+Frame 9: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: Dell_56:ec:1b (84:2b:2b:56:ec:1b), Dst: Dell_69:cb:b2 (84:2b:2b:69:cb:b2)
+Internet Protocol Version 4, Src: 192.1.1.1, Dst: 192.1.2.2
+Internet Control Message Protocol
+
+     10 3.000425785    192.1.2.2             192.1.1.1             ICMP     98     Echo (ping) reply    id=0x1639, seq=4/1024, ttl=64 (request in 9)
+
+Frame 10: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface 0
+Ethernet II, Src: Dell_69:cb:b2 (84:2b:2b:69:cb:b2), Dst: Dell_56:ec:1b (84:2b:2b:56:ec:1b)
+Internet Protocol Version 4, Src: 192.1.2.2, Dst: 192.1.1.1
+Internet Control Message Protocol
+
+     11 5.008790944    Dell_69:cb:b2         Dell_56:ec:1b         ARP      42     Who has 192.1.2.1? Tell 192.1.2.2
+
+Frame 11: 42 bytes on wire (336 bits), 42 bytes captured (336 bits) on interface 0
+Ethernet II, Src: Dell_69:cb:b2 (84:2b:2b:69:cb:b2), Dst: Dell_56:ec:1b (84:2b:2b:56:ec:1b)
+Address Resolution Protocol (request)
+
+     12 5.008942062    Dell_56:ec:1b         Dell_69:cb:b2         ARP      60     192.1.2.1 is at 84:2b:2b:56:ec:1b
+
+Frame 12: 60 bytes on wire (480 bits), 60 bytes captured (480 bits) on interface 0
+Ethernet II, Src: Dell_56:ec:1b (84:2b:2b:56:ec:1b), Dst: Dell_69:cb:b2 (84:2b:2b:69:cb:b2)
+Address Resolution Protocol (reply)
